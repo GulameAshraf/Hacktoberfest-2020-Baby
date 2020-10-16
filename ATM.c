@@ -35,6 +35,7 @@ int main()
      case 3: 
            Net = B;
            printf("Available Balance : %f", Net);
+           break;
            default : printf("Transaction Cancelled!");
         }
   
